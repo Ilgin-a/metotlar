@@ -1,0 +1,15 @@
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/bin/Debug/net6.0/metotlar
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/bin/Debug/net6.0/metotlar.deps.json
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/bin/Debug/net6.0/metotlar.runtimeconfig.json
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/bin/Debug/net6.0/metotlar.dll
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/bin/Debug/net6.0/metotlar.pdb
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/obj/Debug/net6.0/metotlar.csproj.AssemblyReference.cache
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/obj/Debug/net6.0/metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/obj/Debug/net6.0/metotlar.AssemblyInfoInputs.cache
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/obj/Debug/net6.0/metotlar.AssemblyInfo.cs
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/obj/Debug/net6.0/metotlar.csproj.CoreCompileInputs.cache
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/obj/Debug/net6.0/metotlar.dll
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/obj/Debug/net6.0/refint/metotlar.dll
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/obj/Debug/net6.0/metotlar.pdb
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/obj/Debug/net6.0/metotlar.genruntimeconfig.cache
+/Users/ilginarpaci1/Documents/sites/c#/metotlar/obj/Debug/net6.0/ref/metotlar.dll
